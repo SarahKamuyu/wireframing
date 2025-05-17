@@ -40,3 +40,11 @@ Responsiveness
 
 Involves considering how the design will adapt to different screen sizes and devices. This ensures a seamless user experience across desktops, tablets, and smartphones.
 Designing for responsiveness in wireframes allows for the creation of flexible layouts that enhance usability on various devices, catering to the diverse needs of users. It ensures that the interface remains functional and visually appealing, regardless of the platform used.
+
+# Types of Wireframe
+
+# Low-Fidelity Wireframes: Exploration and Feedback
+Wireframes are essential tools in the design process and are primarily categorized into low-fidelity and high-fidelity wireframes, each serving distinct purposes at different stages. Low-fidelity wireframes are simple sketches that focus on the layout and structure of a product, using basic shapes and placeholders without detailed graphics. They are typically used in the early design stages for brainstorming and initial discussions with stakeholders to visualize concepts quickly and gather feedback without extensive detail. Their simplicity allows for rapid iterations, making them ideal for exploring various ideas before committing to a more refined design.
+
+# High-Fidelity Wireframes: Refinement and User Testing
+High-fidelity wireframes, on the other hand, provide a detailed and realistic representation of the final product, incorporating specific design elements such as colors, typography, and interactive features. These wireframes are utilized later in the design process after initial concepts have been validated. They enable designers to simulate user interaction and conduct usability testing, offering a clearer view of the final interface and helping to refine designs before development. The primary distinction lies in their level of detail and purpose, with low-fidelity wireframes facilitating exploratory discussions and high-fidelity wireframes preparing for user testing and development
